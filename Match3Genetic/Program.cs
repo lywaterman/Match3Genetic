@@ -10,6 +10,7 @@ namespace Match3Genetic
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine("hello world");
         }
     }
 }
